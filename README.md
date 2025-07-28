@@ -7,6 +7,7 @@ Media bias could be defined as any form of deviation from journalistic values by
 
 |                                                |                                              |
 | ---------------------------------------------- | -------------------------------------------- |
-| ![](results\avgSentCountSemtimentplot53.png)   | ![](results\sentConfBoxPlotrs53.png)         |
-| ![](results\polSentRatiovsBiasBoxplotrs53.png) | ![](results\highPolSentRatioBoxplotrs53.png) |
-| ![](results\negPosSentRatioBoxplotrs53.png)    |
+| ![](results/avgSentCountSemtimentplot53.png)   | ![](results/sentConfBoxPlotrs53.png)         |
+| ![](results/polSentRatiovsBiasBoxplotrs53.png) | ![](results/highPolSentRatioBoxplotrs53.png) |
+
+![](results/negPosSentRatioBoxplotrs53.png)
